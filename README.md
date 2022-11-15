@@ -67,18 +67,4 @@ No deployment planned
 * [Bootstrap](https://getbootstrap.com/) 
 * [Font Awesome](https://fontawesome.com/6?next=%2F) 
 
-## Authors
-
-* **Gabriela Tsvetanova** - *Initial work* - [GitHub](https://github.com/gtstevtanova)
-* **Aksoy Kaan Dipioğlu** - *Initial work* - [GitHub](https://github.com/KaanAksoy93)
-* **Karoline Leo** - *Initial work* - [GitHub](https://github.com/karoleoline)
-
-See also the list of [contributors](https://github.com/karoleoline/ISD_realproject/graphs/contributors) who participated in this project.
-
-
-## Acknowledgments
-
-* Big thanks to CoreyMs and Max Goodridge - we would have been lost without your youtube tutorials
-* Additionally, thanks to StackOverFlow because...well, because nothing would be possible without StackOverFlow
-* Thanks to Frank B. and his awesome dog, which we can sometimes hear during his online lectures
 
